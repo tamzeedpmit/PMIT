@@ -16,7 +16,7 @@ It reduces missed doses and medication errors while offering features such as em
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - **Java** for application logic  
 - **XML** for UI design  
 - **Firebase** for authentication and data storage  
