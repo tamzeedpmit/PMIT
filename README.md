@@ -6,6 +6,11 @@ A mobile application that helps patients take the right medicine at the right ti
 It reduces missed doses and medication errors while offering features such as emergency SOS, nearby hospitals, and pharmacy locations.
 
 ---
+##  Software
+- Android Studio
+
+---
+
 
 ##  Features
 - Medicine schedule and reminders  
